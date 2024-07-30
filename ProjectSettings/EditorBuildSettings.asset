@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MenuScene.unity
+    guid: fcaf17e5fa48cd343b3ff83a8a5ae600
+  - enabled: 1
+    path: Assets/ClickerScene.unity
+    guid: be2ff17e9926b164aad578126e552c3d
+  - enabled: 1
+    path: Assets/WalkerScene.unity
+    guid: b316219e8296fe5468a58b9f4d209736
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: a9a182455f02eec48b2ec3b37a1f6842, type: 2}
